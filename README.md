@@ -26,7 +26,7 @@
 [<img height="40px" width="40px" alt="VSCode icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
 [<img height="40px" width="40px" alt="Insomnia icon" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
 [<img height="40px" width="40px" alt="Postman icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
-[<img height="40px" width="40px" alt="Github icon" src="https://skillicons.dev/icons?i=github"/>>](https://github.com/)
+[<img height="40px" width="40px" alt="Github icon" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
 [<img height="40px" width="40px" alt="Git icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
 [<img height="40px" width="40px" alt="Figma icon" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 
