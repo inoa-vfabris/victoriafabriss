@@ -1,32 +1,34 @@
+<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="computer image" min-width="400px" max-width="200px" width="200px" align="right">
 
 ### Olá!
-<img src="https://media.giphy.com/media/scZPhLqaVOM1qG4lT9/giphy.gif" alt="computer image" min-width="400px" max-width="300px" width="300px" align="right">
 
 - Me chamo **Victória** e este é meu perfil no GitHub
--  Moro em Florianópolis/SC, Brasil
--  Atualmente trabalho como desenvolvedora backend para a Plathanus Tech, uma empresa que desenvolve soluções digitais em software e design.
+
+- Moro em Florianópolis/SC, Brasil
+
+- Atualmente trabalho como desenvolvedora backend para a Plathanus Tech, uma empresa que desenvolve soluções digitais em software e design
 
 
-
+##
 
 #### Estou aprendendo sobre:
 
-<img height="40px" width="40px" alt="HTML icon" src="https://skillicons.dev/icons?i=html"/>
-<img height="40px" width="40px" alt="CSS icon" src="https://skillicons.dev/icons?i=css"/>
-<img height="40px" width="40px" alt="JS icon" src="https://skillicons.dev/icons?i=js"/>
-<img height="40px" width="40px" alt="Django icon" src="https://skillicons.dev/icons?i=django"/>
-<img height="40px" width="40px" alt="Python icon" src="https://skillicons.dev/icons?i=python"/>
-<img height="40px" width="40px" alt="AWS icon" src="https://skillicons.dev/icons?i=aws"/>
+[<img height="40px" width="40px" alt="HTML icon" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+[<img height="40px" width="40px" alt="CSS icon" src="https://skillicons.dev/icons?i=css"/>](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+[<img height="40px" width="40px" alt="JS icon" src="https://skillicons.dev/icons?i=js"/>](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+[<img height="40px" width="40px" alt="Python icon" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
+[<img height="40px" width="40px" alt="Django icon" src="https://skillicons.dev/icons?i=django"/>](https://www.djangoproject.com/)
 
+##
 
 #### Ferramentas que uso:
 
-<img height="40px" width="40px" alt="VSCode icon" src="https://skillicons.dev/icons?i=vscode"/>
-<img height="40px" width="40px" alt="Insomnia icon" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>
-<img height="40px" width="40px" alt="Postman icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>
-<img height="40px" width="40px" alt="Github icon" src="https://skillicons.dev/icons?i=github"/>
-<img height="40px" width="40px" alt="Git icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>
-<img height="40px" width="40px" alt="Figma icon" src="https://skillicons.dev/icons?i=figma"/>
+[<img height="40px" width="40px" alt="VSCode icon" src="https://skillicons.dev/icons?i=vscode"/>](https://code.visualstudio.com)
+[<img height="40px" width="40px" alt="Insomnia icon" src="https://i.postimg.cc/MHch4m7T/insomnia.png"/>](https://insomnia.rest)
+[<img height="40px" width="40px" alt="Postman icon" src="https://i.postimg.cc/QNyBTNVk/postman.png"/>](https://www.postman.com)
+[<img height="40px" width="40px" alt="Github icon" src="https://skillicons.dev/icons?i=github"/>>](https://github.com/)
+[<img height="40px" width="40px" alt="Git icon" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg"/>](https://git-scm.com)
+[<img height="40px" width="40px" alt="Figma icon" src="https://skillicons.dev/icons?i=figma"/>](https://www.figma.com)
 
 ##
 
