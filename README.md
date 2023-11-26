@@ -8,6 +8,8 @@
 
 - Atualmente trabalho como desenvolvedora backend para a Plathanus Tech, uma empresa que desenvolve soluções digitais em software e design
 
+- Aperfeiçoando meus conhecimentos na <a href="https://www.origamid.com/">Origamid</a>
+
 
 ##
 
