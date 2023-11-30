@@ -45,7 +45,7 @@
 
 Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
 
-[<img style='border-radius:15px;margin:10px' align="left" height="92px" width="92px" alt="Plathanus logo" src="https://scontent.fnvt6-1.fna.fbcdn.net/v/t39.30808-6/324745389_560888945918492_8665472453244659335_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=5f2048&_nc_ohc=yztOHVMZWGgAX-lZ_Nw&_nc_ht=scontent.fnvt6-1.fna&oh=00_AfCPVcCYjioDgdBx7R3x25kovkE8VCesLv1nHeBD0vGhcw&oe=65610BF2"/>](https://plathanus.com.br/)
+[<img style='border-radius:15px;margin:10px' align="left" height="92px" width="92px" alt="Plathanus logo" src="https://scontent-gru2-2.xx.fbcdn.net/v/t39.30808-6/324745389_560888945918492_8665472453244659335_n.jpg?stp=cp6_dst-jpg&_nc_cat=105&ccb=1-7&_nc_sid=efb6e6&_nc_ohc=ouV5DcOOOCgAX_VT2QS&_nc_ht=scontent-gru2-2.xx&oh=00_AfAVM_wtlyQ1avv9c8yGQrQ4J1llUwaEDq8yeqXipudlFw&oe=656CE972"/>](https://plathanus.com.br/)
 \
 **Back-end Developer (Jr)** \
 [**Plathanus**](https://plathanus.com.br/) • Full-time \
